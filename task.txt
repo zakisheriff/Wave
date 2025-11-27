@@ -1,0 +1,15 @@
+Tasks - VLCKit Integration
+ Add VLCKit Package
+ Add SPM dependency
+ Verify package resolves
+ Create VLC Player View
+ VLCPlayerView wrapper
+ Format detection
+ Player switching logic
+ Test & Verify
+ Test MKV playback
+ Test WebM playback
+ Verify native formats still work
+ Build & Run
+ Resolve any build issues
+ Test final app
