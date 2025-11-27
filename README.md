@@ -216,5 +216,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-Made with Swift & ❤️ by <strong>Zaki Sheriff</strong>
+Made with Swift by <strong>Zaki Sheriff</strong>
 </p>
